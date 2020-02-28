@@ -1,0 +1,22 @@
+Download and unzip
+This distribution includes Camunda as part of Apache Tomcat. Check the installation manual for alternative setups.
+
+2
+Start up Camunda
+Run start-camunda.bat (Windows) or start-camunda.sh (Linux)
+
+3
+Check it out
+Open http://localhost:8080/camunda-welcome/index.html and play with the already deployed invoice example.
+
+4
+Run your own Workflow
+Check out the getting started page or watch Niall and his hawk to learn how to build and run your own workflow in no time.
+
+5
+Collaborate
+Use Cawemo to collaborate and align with all stakeholders while modeling your workflows.
+
+6
+Get insights into your Workflow
+Watch the getting started with Optimize video to learn how to run Optimize in less than 5 minutes.

@@ -1,0 +1,38 @@
+Dear gopi,
+
+Thank you for your interest in Camunda!
+
+You are now entitled to download and evaluate the Camunda Enterprise Platform until 2020-03-22.
+
+Below you will find instructions for evaluating
+
+* The Runtime Platform (Engines, Tasklist, Admin, Cockpit)
+* Optimize
+* Cawemo
+
+Use your credentials to get access to the download area:
+
+Username: trial_rpsglitter100_gmail_com
+Password: 2ba5afb4-5fd7-4604-a
+
+Your license key:
+
+--------------- BEGIN CAMUNDA LICENSE KEY ---------------
+Fqmgl70dk9a0t8/znLk0OIE1RP2fnecMvI0qldkbvG+rVZb+hPhdnIICF
+dLFB8nMYQggAm+oBP9n0UDObjUAVJJCqHt8F+hC/RVVeZT7SNRuDMvlQ3
+5gMWjCWU6B+AHCU4IPIvmpFfgcF9V5g5TJhe7aJBUwDDGaBn+Vxgnn2ds
+NeEQK330ndDTzfE/cbSMdNzsMN/C+B8i4aRxIUu7Hva8WmRyk+bE2igK3
+Pjajv2fhhVb/Ru8/MXLEl4p4JC83uN9SLeCuDretqdbLJoPWkDW3sKwFJ
+jvz9M5E8Si/4+Oxnmyt8js5EAQ/T4XgaUaTS8I1P3JAZ+9JIWPtD1cLhm
+r177tAOTPVugbyDSzUEHXSEb0dYAzplTDlejGkIl9YoTPrOGqwcGO4EhS
+GhDe2Oz4kT5ubYMYA+v7ZlcYnf+H03NZzD74sHugaHpdcVq3mMSSUJZrc
+S43/MAEyZVmsjinWJsqd5zqenSJV8TH7Xmq4eYhmlZIzLf//lns0mB3Ya
+Wx4S0RxuKXP20OOwgEDUsUEnAcRun/Pli5F1Peocc0ENLkn+FbEd1CA+P
+3B/n8j8CzHXIg9xBzcIBtDj6PTwIpVFyWVc0ifOfVsRj3WfkxYgHGYRdk
+nGjwAEo+a8IposS4vFE9OXb5x9xnXIIINXR5yE4C/p/uQ2/m5LHYQbu4=;
+customer = rlp;
+expiryDate = 2020-03-22;
+cawemo = true;
+optimize = true;
+camundaBPM = true;
+---------------  END CAMUNDA LICENSE KEY  ---------------
